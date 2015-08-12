@@ -36,7 +36,7 @@ var get_lorem = function(p, l, c) {
 }
 
 var chickenize = function(str) {
-  // 치킨치킨
+  // 하이 메롱
   return str.replace(/[가-힣][가-힣]/g, '치킨');
 }
 
